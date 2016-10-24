@@ -12,7 +12,7 @@ After following the wizard you should get to a point where it outputs this in th
 
 ```
 Make sure your web server displays the following content at
-http://app.wiik.li/.well-known/acme-challenge/<LETSENCRYPT_CHALLENGE> before continuing:
+http://app.foo.bar/.well-known/acme-challenge/<LETSENCRYPT_CHALLENGE> before continuing:
 
 <LETSENCRYPT_RESPONSE>
 ```
