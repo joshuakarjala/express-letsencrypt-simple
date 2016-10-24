@@ -1,0 +1,28 @@
+{
+  "name": "express-letsencrypt-simple",
+  "version": "1.0.0",
+  "description": "Very simple route module for validating with Let's Encrypt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuakarjala/express-letsencrypt-simple.git"
+  },
+  "keywords": [
+    "express",
+    "ssl",
+    "encrypt",
+    "letsencrypt",
+    "lets",
+    "encrypt",
+    "let's"
+  ],
+  "author": "Joshua Karjala <joshua@fluxuries.com> (http://twitter.com/joshuakarjala)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshuakarjala/express-letsencrypt-simple/issues"
+  },
+  "homepage": "https://github.com/joshuakarjala/express-letsencrypt-simple#readme"
+}
