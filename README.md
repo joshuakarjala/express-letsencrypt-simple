@@ -17,6 +17,8 @@ http://app.wiik.li/.well-known/acme-challenge/<LETSENCRYPT_CHALLENGE> before con
 <LETSENCRYPT_RESPONSE>
 ```
 
+Update your server with these variables. Not you can let the wizard validate against your server and you will get your certificate!
+
 Code
 ----
 
