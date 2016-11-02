@@ -1,6 +1,6 @@
 {
   "name": "express-letsencrypt-simple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Very simple route module for validating with Let's Encrypt",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joshuakarjala/express-letsencrypt-simple.git"
+    "url": "git+https://github.com/foundersas/express-letsencrypt-simple.git"
   },
   "keywords": [
     "express",
@@ -19,10 +19,10 @@
     "encrypt",
     "let's"
   ],
-  "author": "Joshua Karjala <joshua@fluxuries.com> (http://twitter.com/joshuakarjala)",
+  "author": "Joshua Karjala <joshua@fluxuries.com> (http://github.com/joshuakarjala)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joshuakarjala/express-letsencrypt-simple/issues"
+    "url": "https://github.com/foundersas/express-letsencrypt-simple/issues"
   },
-  "homepage": "https://github.com/joshuakarjala/express-letsencrypt-simple#readme"
+  "homepage": "https://github.com/foundersas/express-letsencrypt-simple#readme"
 }
